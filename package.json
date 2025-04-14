@@ -1,0 +1,9 @@
+{
+  "name": "cyning-vue2-ui",
+  "version": "0.0.1",
+  "description": "针对微信小程序的一些组件和工具，有的是二次封装uView，有的是自己实现",
+  "main": "index.js",
+  "repository": "git@github.com:Cyning12/cyning-vue2-ui.git",
+  "author": "Cyning12 <231127227@qq.com>",
+  "license": "MIT"
+}
